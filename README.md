@@ -1,3 +1,15 @@
+This is Angular 6 CRUD application which read and write data from 'products.json'.
+Below is sample of 'products.json'
+{
+  "products": [
+    {
+      "name": "trouser",
+      "color": "yellow-1",
+      "id": 2
+    }
+  ]
+}
+
 # Angular4CRUD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.10.
